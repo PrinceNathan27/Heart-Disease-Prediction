@@ -40,7 +40,7 @@ analysis of the UCI Machine Learning Heart Disease dataset.
 </div>
 
 
-<img src="https://github.com/Aniket11007/Heart_Disease_prediction-WebApp/blob/main/Heart-Disease-Prediction-main/Screenshots/Home.png" alt="alt text"/> 
+<img src="https://github.com/PrinceNathan27/Heart-Disease-Prediction/blob/main/Heart-Disease-Prediction-main/Screenshots/Home.png" alt="alt text"/> 
 
 ***** 
 
@@ -48,14 +48,14 @@ analysis of the UCI Machine Learning Heart Disease dataset.
 <p>Form Details</p>
 </div>
 
-<img src="https://github.com/Aniket11007/Heart_Disease_prediction-WebApp/blob/main/Heart-Disease-Prediction-main/Screenshots/input_form.png" alt="alt text"/> 
+<img src="https://github.com/PrinceNathan27/Heart-Disease-Prediction/blob/main/Heart-Disease-Prediction-main/Screenshots/input_form.png" alt="alt text"/> 
 
 *****
 <div align="center">
 <p>Prediction Result- Person with Heart Disease</p>
 </div>
 
-<img src="https://github.com/Aniket11007/Heart_Disease_prediction-WebApp/blob/main/Heart-Disease-Prediction-main/Screenshots/result_with_heart_disease.png" alt="alt text"/> 
+<img src="https://github.com/PrinceNathan27/Heart-Disease-Prediction/blob/main/Heart-Disease-Prediction-main/Screenshots/result_with_heart_disease.png" alt="alt text"/> 
 
 
 ***
@@ -63,7 +63,7 @@ analysis of the UCI Machine Learning Heart Disease dataset.
 <p>Prediction Result- Person Who don't have Heart Disease</p>
 </div>
 
-<img src="https://github.com/Aniket11007/Heart_Disease_prediction-WebApp/blob/main/Heart-Disease-Prediction-main/Screenshots/result_without_heart_disease.png" alt="alt text"/> 
+<img src="https://github.com/PrinceNathan27/Heart-Disease-Prediction/blob/main/Heart-Disease-Prediction-main/Screenshots/result_without_heart_disease.png" alt="alt text"/> 
 
 
 ***
